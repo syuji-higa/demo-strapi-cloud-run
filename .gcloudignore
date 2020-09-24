@@ -1,0 +1,6 @@
+docker-compose.yaml
+.gcloudignore
+.git
+.gitignore
+node_modules/
+#!include:.gitignore
